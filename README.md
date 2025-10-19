@@ -15,8 +15,8 @@ Vi introducerar även Flexbox, ett kraftfullt verktyg för att positionera eleme
 ## Resurser
 
 ### Presentationer
-* [CSS Forts.]()
-* [CSS Flexbox]()
+* [CSS Forts.](https://docs.google.com/presentation/d/1t-h1lSdrLKHYvkS9VsG-4nh9LQuanRj-/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [CSS Flexbox](https://docs.google.com/presentation/d/1LffJ7rXANw4686JvXqztcYkCgOCKJ7Q9/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -40,11 +40,11 @@ Vi introducerar även Flexbox, ett kraftfullt verktyg för att positionera eleme
 
 
 ### Övningar
-* [CSS Bootcamp]()
-* [CSS Flexbox Bootcamp]()
+* [CSS Bootcamp](https://github.com/fu-html-css-fe25/week-42-exercise-css-bootcamp)
+* [CSS Flexbox Bootcamp](https://github.com/fu-html-css-fe25/week-43-exercise-css-flexbox-bootcamp) - Veckans Code Review-uppgift!
 * [Flexbox Froggy](https://flexboxfroggy.com/#sv)
 * [Flexbox Defense](http://www.flexboxdefense.com/)
-* [Layoutövningar]()
+* [Extra Layoutövningar](https://github.com/fu-html-css-fe25/week-43-exercise-css-layout) - Bonus!
 
 
 
