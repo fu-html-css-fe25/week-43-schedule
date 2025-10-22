@@ -26,6 +26,7 @@ Vi introducerar även Flexbox, ett kraftfullt verktyg för att positionera eleme
 ### Lektionsrepon
 
 * [20 okt](https://github.com/fu-html-css-fe25/week-43-lecture-20-okt)
+* [22 okt](https://github.com/fu-html-css-fe25/week-43-lecture-22-okt)
 
 ### Filmer
 * [HTML in 5 minutes](https://www.youtube.com/watch?v=salY_Sm6mv4)
