@@ -22,6 +22,8 @@ Vi introducerar även Flexbox, ett kraftfullt verktyg för att positionera eleme
 
 * [CSS Forts.](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EdwQyx9hg29JoCdTvvmPidoBspv_TcXomg-ChZe6ynhugg?e=xHilkd)
 * [CSS Flexbox](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EZ2WMapjsx9Ajnk4LppwzPIBYj_Q4_igzrofK61k9L4NzQ?e=Xw3uVI)
+* [CSS Kodexempel](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/ETzn4b1_nZtLiyOIXDXV7Y8B9rlwm_vfEcsPPEXf2uE2Hg?e=uRBJvd)
+* [Code Along Space Hack](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EeDGDEikEyVEsgo-f6xcsHoB-wWxXn1FqcaabFcDEUlm1A?e=z0stAC)
 
 ### Lektionsrepon
 
