@@ -23,7 +23,8 @@ Vi introducerar även Flexbox, ett kraftfullt verktyg för att positionera eleme
 * [CSS Forts., 20 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EdwQyx9hg29JoCdTvvmPidoBspv_TcXomg-ChZe6ynhugg?e=xHilkd)
 * [CSS Flexbox, 20 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EZ2WMapjsx9Ajnk4LppwzPIBYj_Q4_igzrofK61k9L4NzQ?e=Xw3uVI)
 * [CSS Flexbox Kodexempel, 20 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/ETzn4b1_nZtLiyOIXDXV7Y8B9rlwm_vfEcsPPEXf2uE2Hg?e=uRBJvd)
-* [Code Along Space Hack, 20 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EeDGDEikEyVEsgo-f6xcsHoB-wWxXn1FqcaabFcDEUlm1A?e=z0stAC)
+* [Code Along Space Hack del 1, 22 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EeDGDEikEyVEsgo-f6xcsHoB-wWxXn1FqcaabFcDEUlm1A?e=z0stAC)
+* [Code Along Space Hack del 1, 22 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/EcqdGB3qlFpHuUjctZwV1NkBteHAYLHgPb5YlPaJi3Bbnw?e=OMsjOv)
 
 ### Lektionsrepon
 
